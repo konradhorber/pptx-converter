@@ -1,6 +1,6 @@
 from pptx import Presentation
 
-prs = Presentation("data/test_slide_bcg.pptx")
+prs = Presentation("placeholder")
 slides = prs.slides
 
 i=0
